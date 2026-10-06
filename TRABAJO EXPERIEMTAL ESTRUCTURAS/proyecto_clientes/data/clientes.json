@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Abigail",
+    "apellido": "Leon",
+    "email": "aleonr21@unemi.edu.ec",
+    "telefono": "099 947 4069",
+    "ciudad": "duran",
+    "direccion": "recreo"
+  },
+  {
+    "id": 2,
+    "nombre": "Leonidas",
+    "apellido": "Sotomayor",
+    "email": "aleonr21@unemi.ecu.ec",
+    "telefono": "0991532776",
+    "ciudad": "milagro",
+    "direccion": "milagro"
+  }
+]
